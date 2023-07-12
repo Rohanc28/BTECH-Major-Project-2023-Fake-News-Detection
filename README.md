@@ -4,6 +4,8 @@ Fake News Detection using Deep Learning BTech Major Project 2023 Jaypee Universi
 # Aim
 The aim of the project in hand is to provide a solution with a trustworthy system that can categorize news as illegitimate or authentic with the use of deep learning. With the rise in developments and breakthroughs in the field of artificial intelligence, we are tackling this problem with the use of deep learning. In this project the goal is to analyze, and compare various deep learning models for fake news detection that can differentiate real news from fake.
 
+For access to all project work and documents, contact me at rochaturvedi01@gmail.com
+
 # Introduction
 False information is propagated through numerous avenues, particularly social media these days, as fake news or propaganda. The issue of fake news in the media, news and social media is rampant and causes many unfavorable situations like confusion regarding the facts and truth, propaganda, political tensions which can escalate nationwide and cause problems in international relations.
 
