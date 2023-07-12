@@ -12,8 +12,9 @@ False information is propagated through numerous avenues, particularly social me
 # Links:
 Presentation: https://docs.google.com/presentation/d/1VYeQ4LyGBlBsyc0T41txiUR1Zpi0B6uPSIkw6tejuqM/edit?usp=sharing
 
-Report: https://docs.google.com/document/d/1j58NQoahtCUfY2O5yUYUwkCLYrBbfJ4n/edit?usp=sharing&ouid=106021341804770615992&rtpof=true&sd=true
-https://docs.google.com/document/d/1lEiQzopkmRE8wq5ePJxNdPDp7wy8GuPq/edit?usp=sharing&ouid=103221948361833192378&rtpof=true&sd=true
+Report: 
+- https://docs.google.com/document/d/1j58NQoahtCUfY2O5yUYUwkCLYrBbfJ4n/edit?usp=sharing&ouid=106021341804770615992&rtpof=true&sd=true
+- https://docs.google.com/document/d/1lEiQzopkmRE8wq5ePJxNdPDp7wy8GuPq/edit?usp=sharing&ouid=103221948361833192378&rtpof=true&sd=true
 
 # References:
 [1] Abdullah-All-Tanvir, E. M. Mahir, S. Akhter and M. R. Huq, "Detecting Fake News using Machine Learning and Deep Learning Algorithms," 2019 7th International Conference on Smart Computing & Communications (ICSCC), 2019, pp. 1-5, doi: 10.1109/ICSCC.2019.8843612.
