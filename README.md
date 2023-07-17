@@ -13,7 +13,7 @@ False information is propagated through numerous avenues, particularly social me
 Presentation: https://docs.google.com/presentation/d/1VYeQ4LyGBlBsyc0T41txiUR1Zpi0B6uPSIkw6tejuqM/edit?usp=sharing
 
 Report: 
-- https://docs.google.com/document/d/1j58NQoahtCUfY2O5yUYUwkCLYrBbfJ4n/edit?usp=sharing&ouid=106021341804770615992&rtpof=true&sd=true
+
 - https://docs.google.com/document/d/1lEiQzopkmRE8wq5ePJxNdPDp7wy8GuPq/edit?usp=sharing&ouid=103221948361833192378&rtpof=true&sd=true
 
 # References:
